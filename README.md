@@ -1,4 +1,4 @@
 # responsive-website-project
 
-<h3>[click me](https://admiralanne-sass-site.netlify.app/) to visit the Site ~</h3><br>
-<h3>hosted by -- [netlify](https://www.netlify.com/) -- </h3>
+<h3>Hey, you can <a href="https://admiralanne-sass-site.netlify.app/">click me</a> to visit the Site ~</h3><br>
+<h3>hosted by -- <a href="https://www.netlify.com/">netlify -- </h3>
